@@ -102,20 +102,20 @@ class Otabek:
 
 <br/>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats — profile-summary-cards (ishonchli) -->
 <h3>📊 GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nuraliyevo94&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=64ffda&text_color=c9d1d9&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraliyevo94&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nuraliyevo94&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuraliyevo94&theme=tokyonight" height="160" />
 
 <br/><br/>
 
-<!-- GitHub Trophies (streak o'rniga — har doim ishlaydi) -->
-<img src="https://github-profile-trophy.vercel.app/?username=nuraliyevo94&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuraliyevo94&theme=tokyonight&utcOffset=5" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuraliyevo94&theme=tokyonight" width="49%" />
 
 <br/><br/>
 
-<!-- Contribution Graph (ishonchli manba) -->
+<!-- Contribution calendar -->
 <img src="https://ghchart.rshah.org/a78bfa/nuraliyevo94" width="100%" />
 
 <br/><br/>
