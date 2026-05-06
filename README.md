@@ -105,13 +105,17 @@ class Otabek:
 <!-- GitHub Stats — profile-summary-cards (ishonchli) -->
 <h3>📊 GitHub Stats</h3>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nuraliyevo94&theme=tokyonight" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuraliyevo94&theme=tokyonight" height="160" />
+<table>
+<tr>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nuraliyevo94&theme=tokyonight" height="175" /></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuraliyevo94&theme=tokyonight" height="175" /></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuraliyevo94&theme=tokyonight&utcOffset=5" height="175" /></td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuraliyevo94&theme=tokyonight&utcOffset=5" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuraliyevo94&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuraliyevo94&theme=tokyonight" width="95%" />
 
 <br/><br/>
 
