@@ -12,21 +12,7 @@
 <table>
 <tr>
 <td width="55%" valign="top">
-```python
-class Otabek:
-    name       = "Otabek Nuraliyev"
-    title      = "Mathematician & Data Scientist"
-    passion    = ["Robotics", "ML", "Pure Math"]
-    tools      = {
-        "languages" : ["Python", "C++", "MATLAB"],
-        "data"      : ["NumPy", "Pandas", "Scikit-learn"],
-        "viz"       : ["Matplotlib", "Plotly", "Seaborn"],
-        "robotics"  : ["ROS2", "OpenCV", "Arduino"],
-    }
-
-    def mission(self):
-        return "Turn equations into intelligence 🧠"
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=99999&color=A78BFA&center=false&vCenter=true&width=420&height=220&lines=class+Otabek%3A;++name++++++%3D+%22Otabek+Nuraliyev%22;++title++++++%3D+%22Mathematician+%26+Data+Scientist%22;++passion++++%3D+%5B%22Robotics%22%2C+%22ML%22%2C+%22Pure+Math%22%5D;++tools++++++%3D+%7B;++++%22languages%22+%3A+%5B%22Python%22%2C+%22C%2B%2B%22%2C+%22MATLAB%22%5D%2C;++++%22data%22++++++%3A+%5B%22NumPy%22%2C+%22Pandas%22%5D%2C;++++%22robotics%22++%3A+%5B%22ROS2%22%2C+%22OpenCV%22%5D;++%7D;++def+mission(self)%3A;++++return+%22equations+%E2%86%92+intelligence+%F0%9F%A7%A0%22" alt="code" />
 </td>
 <td width="45%" valign="top" align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=64FFDA&center=true&vCenter=true&width=300&lines=%E2%88%AB+Calculus+%2B+Code+%3D+%E2%9C%A8+Magic;%F0%9F%A4%96+Robots+that+think%2C+not+just+move;%F0%9F%93%88+Data+tells+stories%3B+I+translate;%CE%BB+Functions%2C+not+just+variables" />
@@ -84,15 +70,13 @@ class Otabek:
 <img src="https://github-readme-stats.vercel.app/api?username=nuraliyevo94&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=64ffda&text_color=c9d1d9&rank_icon=github" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraliyevo94&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="165"/>
 <br/><br/>
-<!-- Streak Stats (demolab — ishonchli manba) -->
+<!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=nuraliyevo94&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=FF6B6B&currStreakNum=64ffda&sideNums=64ffda&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6e7681" />
 <br/><br/>
-<!-- Activity Graph (snake o'rniga) -->
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuraliyevo94&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=64ffda&point=ff6b6b&area=true&area_color=a78bfa" width="100%"/>
 <br/><br/>
-<!-- Quote — sodda va ma'noli -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=2&width=100%" />
-<br/>
+<!-- Quote -->
 > *"Mathematics is the language in which God has written the universe."*
 >
 > — **Galileo Galilei**
