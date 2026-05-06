@@ -22,7 +22,7 @@
 
 ```python
 class Me:
-    name       = "Your Name"
+    name       = "Otabek"
     title      = "Mathematician & Data Scientist"
     passion    = ["Robotics", "ML", "Pure Math"]
     tools      = {
@@ -108,7 +108,7 @@ class Me:
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=64ffda&sideNums=64ffda&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6e7681" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nuraliyevo94&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=64ffda&sideNums=64ffda&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6e7681" />
 
 <br/><br/>
 
