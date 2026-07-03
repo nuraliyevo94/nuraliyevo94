@@ -1,137 +1,113 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Otabek Nuraliyev 👋</h1>
+<h3 align="center">🤖 Robotics AI Engineer in the Making | Autonomous Systems & Edge AI Enthusiast</h3>
 
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=&fontSize=0&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+Robotics+Enthusiast;Building+Autonomous+Robots+with+ROS2+%26+SLAM;Optimizing+AI+Models+for+Edge+Devices;Always+Learning.+Always+Building." alt="Typing SVG" />
+</p>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%A7%AE+Mathematician+%7C+%F0%9F%A4%96+Robotics;%F0%9F%90%8D+Python+Developer;%F0%9F%93%8A+Data+Analyst+%26+Data+Scientist;%E2%88%91+Where+Math+Meets+Machines" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nuraliyevo94">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/>
+---
 
-</div>
+### 🚀 About Me
 
-<!-- About Me: code block OUTSIDE html div so it renders correctly -->
-<table>
-<tr>
-<td width="55%" valign="top">
+- 🎓 Computer Science Student & Robotics Enthusiast, focused on **Autonomous Systems** and **Edge AI**
+- 🦾 My core goal is to become a professional **Robotics AI Engineer**, building intelligent machines that perceive, decide, and act in the real world
+- 🧠 Passionate about the intersection of **Machine Learning**, **Computer Vision**, and **Robotic Control**
+- 🌱 Currently deepening my expertise in **SLAM**, **Navigation Stacks (Nav2)**, and **model optimization for embedded hardware**
+- ⚡ Fun fact: I'd rather debug a robot at 2 AM than leave a `TODO` comment unresolved
 
-```python
-class Otabek:
-    name    = "Otabek Nuraliyev"
-    title   = "Mathematician & Data Scientist"
-    passion = ["Robotics", "ML", "Pure Math"]
-    tools   = {
-        "languages" : ["Python", "C++", "MATLAB"],
-        "data"      : ["NumPy", "Pandas", "Sklearn"],
-        "viz"       : ["Matplotlib", "Plotly"],
-        "robotics"  : ["ROS2", "OpenCV", "Arduino"],
-    }
+---
 
-    def mission(self):
-        return "equations → intelligence 🧠"
-```
+### 🛠️ Tech Stack
 
-</td>
-<td width="45%" valign="top" align="center">
+**Languages**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=64FFDA&center=true&vCenter=true&width=300&lines=%E2%88%AB+Calculus+%2B+Code+%3D+%E2%9C%A8+Magic;%F0%9F%A4%96+Robots+that+think%2C+not+just+move;%F0%9F%93%88+Data+tells+stories%3B+I+translate;%CE%BB+Functions%2C+not+just+variables" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
-<br/><br/>
+**AI / Machine Learning**
 
-<a href="https://github.com/nuraliyevo94"><img src="https://img.shields.io/github/followers/nuraliyevo94?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=6e40c9&label=FOLLOWERS" /></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-<br/>
+**Robotics & Simulation**
 
-<img src="https://komarev.com/ghpvc/?username=nuraliyevo94&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white" />
+</p>
 
-</td>
-</tr>
-</table>
+**DevOps & Tools**
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-<br/>
+---
 
-<!-- Tech Stack -->
-<h3>⚡ Tech Stack & Tools</h3>
+### 🌟 Highlighted Projects
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243" />
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
-<img src="https://img.shields.io/badge/ROS2-0d1117?style=for-the-badge&logo=ros&logoColor=22314E" />
-<img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
-<img src="https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00979D" />
-<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+#### 🤖 [Autonomous Home Navigation Robot](https://github.com/nuraliyevo94/REPO_NAME)
+- Designed and simulated a **fully autonomous mobile robot** capable of mapping and navigating indoor environments in real time
+- Implemented **SLAM** for simultaneous localization and mapping, paired with the **Nav2** stack for dynamic path planning and obstacle avoidance
+- Built and tested the entire pipeline in **ROS2** and **Gazebo**, simulating real-world sensor noise and physical constraints before deployment
 
-<br/><br/>
+#### 🎯 [Real-Time Object Detector on Edge Hardware](https://github.com/nuraliyevo94/REPO_NAME)
+- Developed a **real-time object detection pipeline** deployed directly on a **Raspberry Pi**, optimized for constrained compute environments
+- Accelerated inference using **TensorRT**, achieving significant latency reduction while preserving detection accuracy
+- Applied **model quantization and optimization techniques** to bridge the gap between deep learning research and practical **Edge AI** deployment
 
-<!-- Interests -->
-<h3>🎯 Areas of Interest</h3>
+---
 
-<table>
-<tr>
-  <td align="center" width="120">
-    <img src="https://img.icons8.com/fluency/48/robot-2.png" width="40"/><br/>
-    <sub><b>Robotics</b></sub>
-  </td>
-  <td align="center" width="120">
-    <img src="https://img.icons8.com/fluency/48/line-chart.png" width="40"/><br/>
-    <sub><b>Data Science</b></sub>
-  </td>
-  <td align="center" width="120">
-    <img src="https://img.icons8.com/fluency/48/math.png" width="40"/><br/>
-    <sub><b>Mathematics</b></sub>
-  </td>
-  <td align="center" width="120">
-    <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/><br/>
-    <sub><b>Machine Learning</b></sub>
-  </td>
-  <td align="center" width="120">
-    <img src="https://img.icons8.com/fluency/48/combo-chart--v1.png" width="40"/><br/>
-    <sub><b>Data Analysis</b></sub>
-  </td>
-</tr>
-</table>
+### 📊 GitHub Stats
 
-<br/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuraliyevo94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraliyevo94&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<!-- GitHub Stats — profile-summary-cards (ishonchli) -->
-<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuraliyevo94&theme=tokyonight&hide_border=true" />
+</p>
 
-<table>
-<tr>
-  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nuraliyevo94&theme=tokyonight" height="175" /></td>
-  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuraliyevo94&theme=tokyonight" height="175" /></td>
-  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuraliyevo94&theme=tokyonight&utcOffset=5" height="175" /></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nuraliyevo94&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-<br/>
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuraliyevo94&theme=tokyonight" width="95%" />
+### 📈 Contribution Graph
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuraliyevo94&theme=tokyo-night&hide_border=true" />
+</p>
 
-<!-- Contribution calendar -->
-<img src="https://ghchart.rshah.org/a78bfa/nuraliyevo94" width="100%" />
+---
 
-<br/><br/>
+<p align="center">
+  <i>🦾 "The best way to predict the future is to build the robots that will live in it."</i>
+</p>
 
-<!-- Quote -->
-<i>"Mathematics is the language in which God has written the universe."</i>
-<br/>
-<b>— Galileo Galilei</b>
-
-<br/><br/>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nuraliyevo94&style=flat-square&color=blue" alt="Profile views" />
+</p>
