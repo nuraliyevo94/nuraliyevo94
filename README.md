@@ -9,7 +9,9 @@
   <a href="https://www.linkedin.com/in/otabek-nuraliev-41b8b8420/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuraliyevo94@gmail.com)
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuraliyevo94@gmail.com
+
   <a href="https://github.com/nuraliyevo94">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
