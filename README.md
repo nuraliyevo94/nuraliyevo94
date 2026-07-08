@@ -2,7 +2,7 @@
 <h3 align="center">🤖 Robotics AI Engineer in the Making | Autonomous Systems & Edge AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+Robotics+Enthusiast;Building+Autonomous+Robots+with+ROS2+%26+SLAM;Optimizing+AI+Models+for+Edge+Devices;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=_Computer+Science+Student+%7C+Robotics+Enthusiast;Building+Autonomous+Robots+with+ROS2+%26+SLAM;Optimizing+AI+Models+for+Edge+Devices;Always+Learning.+Always+Building." alt="Typing SVG" />
 </p>
 
 <p align="center">
