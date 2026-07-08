@@ -2,14 +2,14 @@
 <h3 align="center">🤖 Robotics AI Engineer in the Making | Autonomous Systems & Edge AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+Robotics+Enthusiast;Building+Autonomous+Robots+with+ROS2+%26+SLAM;Optimizing+AI+Models+for+Edge+Devices;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines= Computer+Science+Student+%7C+Robotics+Enthusiast;Building+Autonomous+Robots+with+ROS2+%26+SLAM;Optimizing+AI+Models+for+Edge+Devices;Always+Learning.+Always+Building." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/otabek-nuraliev-41b8b8420/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nuraliyevo94@gmail.com">
+  <a href="mailto: nuraliyevo94@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/nuraliyevo94">
